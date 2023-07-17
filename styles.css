@@ -1,0 +1,34 @@
+*{
+    background-color: #E9E9E5;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+    color: #52524E;
+}
+
+body{
+    border: 5px#9A9B94 solid;
+    padding: 5px;
+    
+}
+.link{
+    color: #52524E;
+}
+
+h1{
+    text-align: center;
+}
+
+.hobbies{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+}
+.link1{
+    display: flex;
+    justify-content: center;
+}
+
+footer p{
+    text-align: center;
+}
